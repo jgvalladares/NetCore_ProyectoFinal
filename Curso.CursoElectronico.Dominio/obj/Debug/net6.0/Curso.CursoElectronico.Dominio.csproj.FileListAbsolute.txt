@@ -1,0 +1,48 @@
+D:\SEMILLERO BP\Curso.ComercioElectronico.WebApi\Curso.CursoElectronico.Dominio\bin\Debug\net6.0\Curso.CursoElectronico.Dominio.deps.json
+D:\SEMILLERO BP\Curso.ComercioElectronico.WebApi\Curso.CursoElectronico.Dominio\bin\Debug\net6.0\Curso.CursoElectronico.Dominio.dll
+D:\SEMILLERO BP\Curso.ComercioElectronico.WebApi\Curso.CursoElectronico.Dominio\bin\Debug\net6.0\ref\Curso.CursoElectronico.Dominio.dll
+D:\SEMILLERO BP\Curso.ComercioElectronico.WebApi\Curso.CursoElectronico.Dominio\bin\Debug\net6.0\Curso.CursoElectronico.Dominio.pdb
+D:\SEMILLERO BP\Curso.ComercioElectronico.WebApi\Curso.CursoElectronico.Dominio\obj\Debug\net6.0\Curso.CursoElectronico.Dominio.csproj.AssemblyReference.cache
+D:\SEMILLERO BP\Curso.ComercioElectronico.WebApi\Curso.CursoElectronico.Dominio\obj\Debug\net6.0\Curso.CursoElectronico.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+D:\SEMILLERO BP\Curso.ComercioElectronico.WebApi\Curso.CursoElectronico.Dominio\obj\Debug\net6.0\Curso.CursoElectronico.Dominio.AssemblyInfoInputs.cache
+D:\SEMILLERO BP\Curso.ComercioElectronico.WebApi\Curso.CursoElectronico.Dominio\obj\Debug\net6.0\Curso.CursoElectronico.Dominio.AssemblyInfo.cs
+D:\SEMILLERO BP\Curso.ComercioElectronico.WebApi\Curso.CursoElectronico.Dominio\obj\Debug\net6.0\Curso.CursoElectronico.Dominio.csproj.CoreCompileInputs.cache
+D:\SEMILLERO BP\Curso.ComercioElectronico.WebApi\Curso.CursoElectronico.Dominio\obj\Debug\net6.0\Curso.CursoElectronico.Dominio.dll
+D:\SEMILLERO BP\Curso.ComercioElectronico.WebApi\Curso.CursoElectronico.Dominio\obj\Debug\net6.0\ref\Curso.CursoElectronico.Dominio.dll
+D:\SEMILLERO BP\Curso.ComercioElectronico.WebApi\Curso.CursoElectronico.Dominio\obj\Debug\net6.0\Curso.CursoElectronico.Dominio.pdb
+D:\SEMILLERO BP\Nueva carpeta\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\Curso.CursoElectronico.Dominio\bin\Debug\net6.0\Curso.CursoElectronico.Dominio.deps.json
+D:\SEMILLERO BP\Nueva carpeta\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\Curso.CursoElectronico.Dominio\bin\Debug\net6.0\Curso.CursoElectronico.Dominio.dll
+D:\SEMILLERO BP\Nueva carpeta\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\Curso.CursoElectronico.Dominio\bin\Debug\net6.0\ref\Curso.CursoElectronico.Dominio.dll
+D:\SEMILLERO BP\Nueva carpeta\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\Curso.CursoElectronico.Dominio\bin\Debug\net6.0\Curso.CursoElectronico.Dominio.pdb
+D:\SEMILLERO BP\Nueva carpeta\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\Curso.CursoElectronico.Dominio\obj\Debug\net6.0\Curso.CursoElectronico.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+D:\SEMILLERO BP\Nueva carpeta\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\Curso.CursoElectronico.Dominio\obj\Debug\net6.0\Curso.CursoElectronico.Dominio.AssemblyInfoInputs.cache
+D:\SEMILLERO BP\Nueva carpeta\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\Curso.CursoElectronico.Dominio\obj\Debug\net6.0\Curso.CursoElectronico.Dominio.AssemblyInfo.cs
+D:\SEMILLERO BP\Nueva carpeta\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\Curso.CursoElectronico.Dominio\obj\Debug\net6.0\Curso.CursoElectronico.Dominio.csproj.CoreCompileInputs.cache
+D:\SEMILLERO BP\Nueva carpeta\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\Curso.CursoElectronico.Dominio\obj\Debug\net6.0\Curso.CursoElectronico.Dominio.dll
+D:\SEMILLERO BP\Nueva carpeta\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\Curso.CursoElectronico.Dominio\obj\Debug\net6.0\ref\Curso.CursoElectronico.Dominio.dll
+D:\SEMILLERO BP\Nueva carpeta\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\Curso.CursoElectronico.Dominio\obj\Debug\net6.0\Curso.CursoElectronico.Dominio.pdb
+D:\SEMILLERO BP\Nueva carpeta\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\Curso.CursoElectronico.Dominio\obj\Debug\net6.0\Curso.CursoElectronico.Dominio.csproj.AssemblyReference.cache
+D:\Curso Banco Pichincha\Curso.ComercioElectronico.WebApi\Curso.CursoElectronico.Dominio\bin\Debug\net6.0\Curso.CursoElectronico.Dominio.deps.json
+D:\Curso Banco Pichincha\Curso.ComercioElectronico.WebApi\Curso.CursoElectronico.Dominio\bin\Debug\net6.0\Curso.CursoElectronico.Dominio.dll
+D:\Curso Banco Pichincha\Curso.ComercioElectronico.WebApi\Curso.CursoElectronico.Dominio\bin\Debug\net6.0\Curso.CursoElectronico.Dominio.pdb
+D:\Curso Banco Pichincha\Curso.ComercioElectronico.WebApi\Curso.CursoElectronico.Dominio\obj\Debug\net6.0\Curso.CursoElectronico.Dominio.csproj.AssemblyReference.cache
+D:\Curso Banco Pichincha\Curso.ComercioElectronico.WebApi\Curso.CursoElectronico.Dominio\obj\Debug\net6.0\Curso.CursoElectronico.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso Banco Pichincha\Curso.ComercioElectronico.WebApi\Curso.CursoElectronico.Dominio\obj\Debug\net6.0\Curso.CursoElectronico.Dominio.AssemblyInfoInputs.cache
+D:\Curso Banco Pichincha\Curso.ComercioElectronico.WebApi\Curso.CursoElectronico.Dominio\obj\Debug\net6.0\Curso.CursoElectronico.Dominio.AssemblyInfo.cs
+D:\Curso Banco Pichincha\Curso.ComercioElectronico.WebApi\Curso.CursoElectronico.Dominio\obj\Debug\net6.0\Curso.CursoElectronico.Dominio.csproj.CoreCompileInputs.cache
+D:\Curso Banco Pichincha\Curso.ComercioElectronico.WebApi\Curso.CursoElectronico.Dominio\obj\Debug\net6.0\Curso.CursoElectronico.Dominio.dll
+D:\Curso Banco Pichincha\Curso.ComercioElectronico.WebApi\Curso.CursoElectronico.Dominio\obj\Debug\net6.0\refint\Curso.CursoElectronico.Dominio.dll
+D:\Curso Banco Pichincha\Curso.ComercioElectronico.WebApi\Curso.CursoElectronico.Dominio\obj\Debug\net6.0\Curso.CursoElectronico.Dominio.pdb
+D:\Curso Banco Pichincha\Curso.ComercioElectronico.WebApi\Curso.CursoElectronico.Dominio\obj\Debug\net6.0\ref\Curso.CursoElectronico.Dominio.dll
+C:\Users\Gaby\Desktop\ProyectoFinal\Curso.ComercioElectronico.WebApi\Curso.CursoElectronico.Dominio\bin\Debug\net6.0\Curso.CursoElectronico.Dominio.deps.json
+C:\Users\Gaby\Desktop\ProyectoFinal\Curso.ComercioElectronico.WebApi\Curso.CursoElectronico.Dominio\bin\Debug\net6.0\Curso.CursoElectronico.Dominio.dll
+C:\Users\Gaby\Desktop\ProyectoFinal\Curso.ComercioElectronico.WebApi\Curso.CursoElectronico.Dominio\bin\Debug\net6.0\Curso.CursoElectronico.Dominio.pdb
+C:\Users\Gaby\Desktop\ProyectoFinal\Curso.ComercioElectronico.WebApi\Curso.CursoElectronico.Dominio\obj\Debug\net6.0\Curso.CursoElectronico.Dominio.csproj.AssemblyReference.cache
+C:\Users\Gaby\Desktop\ProyectoFinal\Curso.ComercioElectronico.WebApi\Curso.CursoElectronico.Dominio\obj\Debug\net6.0\Curso.CursoElectronico.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gaby\Desktop\ProyectoFinal\Curso.ComercioElectronico.WebApi\Curso.CursoElectronico.Dominio\obj\Debug\net6.0\Curso.CursoElectronico.Dominio.AssemblyInfoInputs.cache
+C:\Users\Gaby\Desktop\ProyectoFinal\Curso.ComercioElectronico.WebApi\Curso.CursoElectronico.Dominio\obj\Debug\net6.0\Curso.CursoElectronico.Dominio.AssemblyInfo.cs
+C:\Users\Gaby\Desktop\ProyectoFinal\Curso.ComercioElectronico.WebApi\Curso.CursoElectronico.Dominio\obj\Debug\net6.0\Curso.CursoElectronico.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Gaby\Desktop\ProyectoFinal\Curso.ComercioElectronico.WebApi\Curso.CursoElectronico.Dominio\obj\Debug\net6.0\Curso.CursoElectronico.Dominio.dll
+C:\Users\Gaby\Desktop\ProyectoFinal\Curso.ComercioElectronico.WebApi\Curso.CursoElectronico.Dominio\obj\Debug\net6.0\refint\Curso.CursoElectronico.Dominio.dll
+C:\Users\Gaby\Desktop\ProyectoFinal\Curso.ComercioElectronico.WebApi\Curso.CursoElectronico.Dominio\obj\Debug\net6.0\Curso.CursoElectronico.Dominio.pdb
+C:\Users\Gaby\Desktop\ProyectoFinal\Curso.ComercioElectronico.WebApi\Curso.CursoElectronico.Dominio\obj\Debug\net6.0\ref\Curso.CursoElectronico.Dominio.dll

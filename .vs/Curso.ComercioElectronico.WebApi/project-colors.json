@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "76945939-c2c6-49cc-a88e-8ce42d19719d": {
+      "ProjectGuid": "76945939-c2c6-49cc-a88e-8ce42d19719d",
+      "DisplayName": "Curso.ComercioElectronico.WebApi",
+      "ColorIndex": 0
+    },
+    "88fb257a-4888-43f0-aaaf-ba854dbaed97": {
+      "ProjectGuid": "88fb257a-4888-43f0-aaaf-ba854dbaed97",
+      "DisplayName": "Curso.ComercioElectronico.Infraestructura",
+      "ColorIndex": 1
+    },
+    "1b1b70ec-3b25-464a-af4a-a65a349cfc72": {
+      "ProjectGuid": "1b1b70ec-3b25-464a-af4a-a65a349cfc72",
+      "DisplayName": "Curso.CursoElectronico.Dominio",
+      "ColorIndex": 2
+    },
+    "5ccbb8ff-fcc6-4eb9-b0cd-c8faf0dca541": {
+      "ProjectGuid": "5ccbb8ff-fcc6-4eb9-b0cd-c8faf0dca541",
+      "DisplayName": "Curso.ComercioElectronico.Aplicacion",
+      "ColorIndex": 3
+    },
+    "f9ad9aba-97d6-487a-9d85-733d02d5cc88": {
+      "ProjectGuid": "f9ad9aba-97d6-487a-9d85-733d02d5cc88",
+      "DisplayName": "Curso.ComercioElectronico.Test",
+      "ColorIndex": 4
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Archivos varios",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 5
+}
